@@ -17,6 +17,9 @@ hr{
     border-width: thick;
     color: olivedrab;
 }
+.lefttext{
+    text-align: left;
+}
 .heading{
     color: goldenrod;
 }
