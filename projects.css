@@ -1,0 +1,41 @@
+html{
+    background-color: gray;
+    border: solid purple;
+    border-width: thick;
+}
+body{
+    display: inline-block;
+    font-size: 140%;
+    padding: 1%;
+    color: honeydew;
+}
+img{
+    border-radius: 2em;
+    max-width: 40%;
+    max-height: 40%;
+    display: inline-block;
+    margin-left: 0;
+    margin-right: auto;
+}
+.img-left{
+    border-radius: 2em;
+    max-width: 20%;
+    max-height: 20%;
+    margin-right: 5em;
+    margin-bottom: 1em;
+    float: left
+}
+hr{
+    box-shadow: lightslategrey;
+    border-width: thick;
+    color: olivedrab;
+}
+table, th, td {
+    border: 1px solid black
+}
+h1{
+    color: goldenrod;
+}
+.clear{
+    clear: both;
+}

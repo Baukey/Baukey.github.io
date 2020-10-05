@@ -1,0 +1,45 @@
+
+html{
+    background-color: gray;
+    border: solid purple;
+    border-width: thick;
+}
+body{
+    display: inline-block;
+    font-size: 140%;
+    padding: 1%;
+    color: honeydew;
+}
+h1{
+    text-align: left;
+    font-size: 337%;
+    font-style: oblique;
+    font-family: sans-serif;
+}
+img{
+    border-radius: 2em;
+    max-width: 60%;
+    max-height: 60%;
+    display: inline-block;
+    margin-left: 0;
+    margin-right: auto;
+}
+hr{
+    box-shadow: lightslategrey;
+    border-width: thick;
+    color: olivedrab;
+}
+.wavy{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(148, 13, 13);
+}
+.floatleft {
+    float: left;
+}
+.floatright {
+    float: right;
+}
+table, th, td {
+    border: 1px solid black
+}

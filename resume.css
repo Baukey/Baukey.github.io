@@ -1,0 +1,25 @@
+html{
+    background-color: gray;
+    border: solid purple;
+    border-width: thick;
+}
+body{
+    display: inline-block;
+    font-size: 140%;
+    padding: 1%;
+    color: honeydew;
+}
+table, th, td {
+    border: 1px solid black
+}
+hr{
+    box-shadow: lightslategrey;
+    border-width: thick;
+    color: olivedrab;
+}
+.heading{
+    color: goldenrod;
+}
+.minorHeading{
+    color: maroon;
+}
